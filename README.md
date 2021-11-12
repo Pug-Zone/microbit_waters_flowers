@@ -3,7 +3,8 @@
 Tu należu dodać opis projektu w języku angielskim - zrobimy to w drugiej kolejności po zakończeniu opis w języku polskim
 ![Diagram of elecric circut in English language](./diagramEL.jpg?raw=true)
 ## [Polski] Projekt wykorzystania Micro:bit do budwy systemu podlewania kwiatów na balkonie. 
-*tu należy dodać opis projektu w jęcyku polskim*
+*tu należy dodać opis projektu w języku polskim*
+
 *Plan opisu*
 1. *Jaką funkcję pełni projekt - krótki  opis w 3 zdaniach*
 1. *Spis elementów z ich specyfikacją (jakie funkcje i zasilanie, link do strony producenta aktualna cena)*
